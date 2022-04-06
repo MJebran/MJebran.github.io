@@ -1,4 +1,4 @@
-This is my lab #4
+<!-- This is my lab #4
 ====================
 
 This lab is about github pages
@@ -33,3 +33,4 @@ Submit screen-shots of the following:
 
 
 
+ -->
